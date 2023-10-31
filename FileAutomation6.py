@@ -21,7 +21,7 @@ def DirectoryTravel(DirName):
         print("Invalid path")
 
 def main():
-    print("-------------- Automation Script --------------")
+    print("-------------- Automation Script --------------") 
 
     print("Automation Script Name : ",argv[0])
 
